@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pipeline-turing-system
+Version: 1.0.0
+Summary: Pipeline simplify multithread common use to few lines of code.
+Author: Vincent SALOME
+Author-email: vincent.salome@turing-system.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENCE.md
+
+
+
+# Licence (TL;DR; version)
+This small program is safe to include in your projects, even commercial, and doesn't require to propagate the licence to projects that include it.
+Details in the (LICENCE.md)[./LICENCE.md]
