@@ -28,6 +28,6 @@ Details in the (LICENCE.md)[./LICENCE.md] (MIT licence)
 This library is very simple.
 How have exemple usage in tests, and documentation directly in classes doctring.
 
-You only need to check `pipeline.pipeline.PipelineSpecification` and `pipeline.pipeline.Pipeline` to do your magic.
+You only need to check [`pipeline.pipeline.PipelineSpecification` and `pipeline.pipeline.Pipeline`](https://github.com/turing-system/pipeline/blob/master/src/pipeline/pipeline.py) to do your magic.
 
 You will figure it out without problem.
