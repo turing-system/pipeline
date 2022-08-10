@@ -26,7 +26,7 @@ Details in the (LICENCE.md)[./LICENCE.md] (MIT licence)
 
 # Get started
 This library is very simple.
-How have exemple usage in tests, and documentation directly in classes doctring.
+How have [exemples](https://github.com/turing-system/pipeline/blob/master/tests/test_pipeline.py) usage in tests, and documentation directly in classes doctring.
 
 You only need to check [`pipeline.pipeline.PipelineSpecification` and `pipeline.pipeline.Pipeline`](https://github.com/turing-system/pipeline/blob/master/src/pipeline/pipeline.py) to do your magic.
 
