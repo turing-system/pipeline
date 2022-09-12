@@ -1,4 +1,5 @@
-# What does this library ?
+#Pypeline
+## What does this library ?
 It give a **very simple way** to multitreat process over all your processors.
 I use it to treat very large dataset in just-in-time way (cross process stream).
 
